@@ -18,6 +18,8 @@
 
 - 📫 How to reach me **ghorai.soumyadip33@gmail.com**
 
+- ✔️ Check out my portfolio **<a href = 'https://soumyadipghorai.github.io/' target = 'blank'>soumyadipghorai.github.io</a>**
+
 - ⚡ Fun fact **If you go on a trek with me you'll come back safely**
 
 <h3 align="left">Connect with me:</h3>
