@@ -40,7 +40,19 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyadipghorai&show_icons=true&locale=en" alt="soumyadipghorai" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyadipghorai&show_icons=true&count_private=true&theme=tokyonight&hide=&line_height=27" alt="soumyadipghorai" /></p> -->
+
+<details open>
+  <summary>📈 <b>Github Stats</b>:</summary>
+  
+  <br>
+  
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soumyadipghorai&show_icons=true&count_private=true&theme=tokyonight&hide=&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadipghorai&theme=tokyonight&hide=css,html,ejs,java,Dockerfile&layout=">
+  </p>
+
+</details>
 
 <h3 align="left">Connect with me:</h3>
     <p align="left">
