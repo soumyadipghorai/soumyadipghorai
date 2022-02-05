@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi folks 👋, I'm Soumyadip Ghorai</h1>
 <h3 align="center">A passionate Data Scientist and a vivid traveler from India</h3>
 
@@ -6,13 +5,12 @@
     <img alt = 'home_imge' src = 'banner.jpg'>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyadipghorai&label=Profile%20views&color=0e75b6&style=flat" alt="soumyadipghorai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyadipghorai&label=Profile%20views&color=0e75b6&style=flat" alt="soumyadipghorai"/> </p>
 
-- 🔭 I’m currently working on **My basics**
+<p> I'm currently pursuing my MSc in Data Science from Christ University, Bangalore 🎓. I love to play with data using python and make informative dashboards. In my holidays, I do photography and trek along the Himalayas. </p>
 
-- 🌱 I’m currently learning **Machine learning and deep learning**
-
-- 👯 I’m looking to collaborate on **Machine learning projects**
+<p>
+- 🔭 I’m currently working on **Machine Learning**
 
 - 💬 Ask me about **the adventures I had, kidding XD!**
 
@@ -20,28 +18,35 @@
 
 - ✔️ Check out my portfolio **<a href = 'https://soumyadipghorai.github.io/' target = 'blank'>soumyadipghorai.github.io</a>**
 
-- ⚡ Fun fact **If you go on a trek with me you'll come back safely**
+- ⚡ Fun fact **Mountains ain't quite**
+</p>
 
+------------------
 
+<details open>
+<summary>🚀 <b>Skills</b>:</summary>
 
-<h3 align="left">I'm most comfortable in:</h3>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <a href="https://www.python.org" target="_blank"> 
-<h3 align='left'> I build my websites using : </h3>
+ <br>
 
 <p align="left">
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/sql-%23339933.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
 </p>
-    
-<h3 align='left'> I'm new to : </h3>
-<p align = 'left'> 
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+</details>
+
+------------------
+
+<details open>
+<summary>☎️ <b>Get in touch?<b></summary>
+<br>
+<p align = "center">
+  
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/soumyadip-ghorai)
+
 </p>
+</details>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyadipghorai&show_icons=true&count_private=true&theme=tokyonight&hide=&line_height=27" alt="soumyadipghorai" /></p> -->
-
+------------------
 <details open>
   <summary>📈 <b>Github Stats</b>:</summary>
   
@@ -49,22 +54,19 @@
   
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soumyadipghorai&show_icons=true&count_private=true&theme=tokyonight&hide=&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadipghorai&theme=tokyonight&hide=Dockerfile&layout=">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadipghorai&theme=tokyonight&hide=ejs,Dockerfile&layout=">
   </p>
 
 </details>
 
-<h3 align="left">Connect with me:</h3>
-    <p align="left">
-        <a href="https://linkedin.com/in/soumyadip-ghorai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyadip-ghorai" height="30" width="40" /></a>
-        <a href="https://fb.com/soumyadip.ghorai.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soumyadip.ghorai.10" height="30" width="40" /></a>
-        <a href="https://instagram.com/soumyadipghorai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soumyadipghorai" height="30" width="40" /></a>
-    </p>
+-----------------
 
-
-<h3 align="left">I'm also active on :</h3>
+<details open> 
+    <summary> <b> I'm also active on </b>:</summary>
+    <br>
     <p align="left">
         <a href="https://kaggle.com/soumyadipghorai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="soumyadipghorai" height="30" width="40" /></a>
         <a href="https://www.codechef.com/users/sghorai_2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sghorai_2000" height="30" width="40" /></a>
         <a href="https://www.hackerrank.com/ghorai_soumyadi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ghorai_soumyadi1" height="30" width="40" /></a>
     </p>
+</details>
