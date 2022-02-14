@@ -10,7 +10,7 @@
 <p> I'm currently pursuing my MSc in Data Science from Christ University, Bangalore 🎓. I love to play with data using python and make informative dashboards. In my holidays, I do photography and trek along the Himalayas. </p>
 
 <p>
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on <b>Machine Learning<b>
 
 - 💬 Ask me about **the adventures I had, kidding XD!**
 
@@ -31,6 +31,9 @@
 <p align="left">
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/sql-%23339933.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 </p>
 </details>
 
@@ -41,7 +44,10 @@
 <br>
 <p align = "center">
   
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/soumyadip-ghorai)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/soumyadip-ghorai)&nbsp;&nbsp;
+<a href="mailto: ghorai.soumyadip33@gmail.com">
+        <img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="32px">
+</a>
 
 </p>
 </details>
