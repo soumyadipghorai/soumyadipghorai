@@ -1,11 +1,15 @@
 <h1 align="center">Hi folks 👋, I'm Soumyadip Ghorai</h1>
 <h3 align="center">A passionate Data Scientist and a vivid traveler from India</h3>
 
+------------------
+
 <p align = 'center' >
     <img alt = 'home_imge' src = 'banner.jpg'>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyadipghorai&label=Profile%20views&color=0e75b6&style=flat" alt="soumyadipghorai"/> </p>
+
+------------------
 
 <p> I'm currently pursuing my MSc in Data Science from Christ University, Bangalore 🎓. I love to play with data using python and make informative dashboards. In my holidays, I do photography and trek along the Himalayas. </p>
 
@@ -34,6 +38,7 @@
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </p>
 </details>
 
@@ -53,6 +58,7 @@
 </details>
 
 ------------------
+    
 <details open>
   <summary>📈 <b>Github Stats</b>:</summary>
   
