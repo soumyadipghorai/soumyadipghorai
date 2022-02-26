@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyadipghorai&label=Profile%20views&color=0e75b6&style=flat" alt="soumyadipghorai"/> </p>
 
-------------------
+--------------------
 
 <p> I'm currently pursuing my MSc in Data Science from Christ University, Bangalore 🎓. I love to play with data using python and make informative dashboards. In my holidays, I do photography and trek along the Himalayas. </p>
 
@@ -24,7 +24,17 @@
 
 - ⚡ Fun fact **Mountains ain't quite**
 </p>
-
+    
+------------------------
+    
+<details open>
+    <br>
+<summary>🚀 <b>Trophies</b>:</summary>
+    
+![trophy](https://github-profile-trophy.vercel.app/?username=soumyadipghorai)
+    
+</details>
+    
 ------------------
 
 <details open>
