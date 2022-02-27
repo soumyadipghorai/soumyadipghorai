@@ -25,16 +25,6 @@
 - ⚡ Fun fact **Mountains ain't quite**
 </p>
     
-------------------------
-    
-<details open>
-    <br>
-<summary>🚀 <b>Trophies</b>:</summary>
-    
-![trophy](https://github-profile-trophy.vercel.app/?username=soumyadipghorai)
-    
-</details>
-    
 ------------------
 
 <details open>
@@ -70,15 +60,18 @@
 ------------------
     
 <details open>
-  <summary>📈 <b>Github Stats</b>:</summary>
+  <summary>📈 <b>Github Stats and trophies </b>:</summary>
   
   <br>
   
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumyadipghorai&show_icons=true&count_private=true&theme=tokyonight&hide=&line_height=27">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=soumyadipghorai&show_icons=true&count_private=true&theme=tokyonight&hide=&line_height=27"> -->
   <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=soumyadipghorai&theme=tokyonight&hide=ejs,Dockerfile&layout=compact">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=soumyadipghorai&%22%20alt=%22entbappy&theme=tokyonight">      
   </p>
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=soumyadipghorai)
 
 </details>
 
