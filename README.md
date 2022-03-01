@@ -71,7 +71,7 @@
   </p>
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=soumyadipghorai)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=soumyadipghorai) -->
 
 </details>
 
