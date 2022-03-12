@@ -14,6 +14,7 @@
 <p> I'm currently pursuing my MSc in Data Science from Christ University, Bangalore 🎓. I love to play with data using python and make informative dashboards. In my holidays, I do photography and trek along the mountains. </p>
 
 <p>
+
 - 🔭 I’m currently working on <b>Sports Tech<b> 
 
 - 💬 Ask me about **the adventures I had, kidding XD!**
