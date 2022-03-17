@@ -26,7 +26,7 @@
 - ⚡ Fun fact **Mountains ain't quite**
 </p>
     
-------------------
+![](https://i.imgur.com/waxVImv.png)
 
 <details open>
 <summary>🚀 <b>Skills</b>:</summary>
@@ -43,8 +43,6 @@
 </p>
 </details>
 
-------------------
-
 <details open>
 <summary>☎️ <b>Get in touch?<b></summary>
 <br>
@@ -58,7 +56,6 @@
 </p>
 </details>
 
-------------------
     
 <details open>
   <summary>📈 <b>Github Stats and trophies </b>:</summary>
@@ -76,7 +73,7 @@
 
 </details>
 
------------------
+![](https://i.imgur.com/waxVImv.png)
 
 <details open> 
     <summary> <b> I'm also active on </b>:</summary>
