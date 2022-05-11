@@ -35,11 +35,12 @@
 
 <p align="left">
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/sql-%23339933.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/sql-%23339933.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/plotly-%037FFC.svg?style=for-the-badge&logo=plotly&logoColor=white">
 </p>
 </details>
 
@@ -49,9 +50,9 @@
 <p align = "center">
   
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/soumyadip-ghorai)&nbsp;&nbsp;
-<a href="mailto: ghorai.soumyadip33@gmail.com">
+<!-- <a href="mailto: ghorai.soumyadip33@gmail.com">
         <img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="32px">
-</a>
+</a> -->
 
 </p>
 </details>
