@@ -1,4 +1,5 @@
-<h1 align="center">Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Soumyadip Ghorai</h1>
+<!-- <h1 align="center">Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Soumyadip Ghorai</h1>  -->
+<h1 align="center">Hi folks!:wave: I'm Soumyadip Ghorai</h1>
 <h3 align="center">A passionate Data Scientist and a vivid traveler from India</h3>
 
 ------------------
