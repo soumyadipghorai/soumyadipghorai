@@ -1,5 +1,5 @@
-<!-- <h1 align="center">Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Soumyadip Ghorai</h1>  -->
-<h1 align="center">Hi folks!:wave: I'm Soumyadip Ghorai</h1>
+<h1 align="center">Hi folks <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="29"> I'm Soumyadip Ghorai</h1> 
+<!-- <h1 align="center">Hi folks!:wave: I'm Soumyadip Ghorai</h1> -->
 <h3 align="center">A passionate Data Scientist and a vivid traveler from India</h3>
 
 ------------------
@@ -30,11 +30,14 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 <details open>
-<summary>🚀 <b>Skills</b>:</summary>
+<summary>🛠 <b> Tools I worked with:</b>:</summary>
 
  <br>
 
 <p align="left">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/sql-%23339933.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
@@ -43,6 +46,7 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/plotly-%037FFC.svg?style=for-the-badge&logo=plotly&logoColor=white">
     <img src="https://img.shields.io/badge/vscode-%23190458.svg?style=for-the-badge&logo=visualstudio&logoColor=white">
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 </p>
 </details>
 
