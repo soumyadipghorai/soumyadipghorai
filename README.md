@@ -12,7 +12,7 @@
 
 --------------------
 
-<p> I'm currently pursuing my MSc in Data Science from Christ University, Bangalore 🎓. I love to play with data using python and make informative dashboards. In my holidays, I do photography and trek along the mountains. </p>
+<p> I'm currently pursuing my MSc in Data Science from Christ University, Bangalore 🎓 and BSc Data Science from IIT Madras 👨🏻‍🎓. I love to play with data using python and make informative dashboards. In my holidays, I do photography and trek along the mountains. </p>
 
 <p>
 
