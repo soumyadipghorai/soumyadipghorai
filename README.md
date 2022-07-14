@@ -4,7 +4,7 @@
 
 ------------------
 
-<p align = 'center' >
+<p align = 'center'>
     <img alt = 'home_imge' src = 'banner.jpg'>
 </p>
 
@@ -52,7 +52,7 @@
     </p>
 </details>
 
-<details open>
+<details close>
     <summary>☎️ <b>Get in touch?<b></summary>
     <br>
     <p>
@@ -78,6 +78,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=soumyadipghorai&show_icons=true&count_private=true&theme=tokyonight&hide=&line_height=27">
     <!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=soumyadipghorai&theme=tokyonight&hide=ejs,Dockerfile&layout=compact"> -->
       <img src = "https://github-readme-streak-stats.herokuapp.com/?user=soumyadipghorai&%22%20alt=%22entbappy&theme=tokyonight">      
+<!--       <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadipghorai&layout=compact&%22%20alt=%22entbappy&theme=tokyonight"> -->
   </p>
 
 
