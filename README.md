@@ -75,7 +75,7 @@
   <br>
   
   <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=soumyadipghorai&show_icons=true&count_private=true&theme=tokyonight&hide=&line_height=27">
+<!--       <img src="https://github-readme-stats.vercel.app/api?username=soumyadipghorai&show_icons=true&count_private=true&theme=tokyonight&hide=&line_height=27"> -->
     <!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=soumyadipghorai&theme=tokyonight&hide=ejs,Dockerfile&layout=compact"> -->
       <img src = "https://github-readme-streak-stats.herokuapp.com/?user=soumyadipghorai&%22%20alt=%22entbappy&theme=tokyonight">      
 <!--       <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadipghorai&layout=compact&%22%20alt=%22entbappy&theme=tokyonight"> -->
