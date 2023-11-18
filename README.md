@@ -50,9 +50,7 @@
         <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
         <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge">
-    </p>
-</details>
-
+        <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white&style=for-the-badge">
 <details close>
     <summary>☎️ <b>Get in touch?<b></summary>
     <br>
