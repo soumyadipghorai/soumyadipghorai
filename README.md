@@ -37,7 +37,7 @@
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+        <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/sql-%23339933.svg?&style=for-the-badge&logo=mysql&logoColor=white">
     <!--     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> -->
         <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
@@ -49,8 +49,9 @@
     <!--     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> -->
         <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
         <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge">
-        <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white&style=for-the-badge">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge">
+        <img src="https://img.shields.io/badge/Java-F89820?logo=Java&logoColor=white&style=for-the-badge">
+        <img src="https://img.shields.io/badge/Linus-FFCC33?logo=Linux&logoColor=white&style=for-the-badge">
 <details close>
     <summary>☎️ <b>Get in touch?<b></summary>
     <br>
