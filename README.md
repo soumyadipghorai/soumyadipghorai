@@ -59,10 +59,10 @@
         <a href='https://linkedin.com/in/soumyadip-ghorai' target = '_blank'>
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
         </a>&nbsp;&nbsp;
-<!--         <a href = 'mailto:ghorai.soumyadip33@gmail.com'>
+        <a href = 'mailto:ghorai.soumyadip33@gmail.com'>
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-        </a>&nbsp;&nbsp; -->
-        <a href = 'https://www.instagram.com/soumyadipghorai/?hl=en'>
+        </a>&nbsp;&nbsp;
+        <a href = 'mailto:ghorai.soumyadip33@gmail.com'>
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
         </a>&nbsp;&nbsp;
     </p>
