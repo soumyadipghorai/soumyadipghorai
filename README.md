@@ -67,8 +67,9 @@
         </a>&nbsp;&nbsp;
     </p>
 </details>
+ 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/sghorai?theme=dark)](https://leetcode.com/sghorai/)
 
-    
 <details open>
   <summary>📈 <b>Github Stats and trophies </b>:</summary>
   
