@@ -53,6 +53,7 @@
         <img src="https://img.shields.io/badge/Java-F89820?logo=Java&logoColor=white&style=for-the-badge">
         <img src="https://img.shields.io/badge/Linux-FFCC33?logo=Linux&logoColor=white&style=for-the-badge">
         <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge">
+        <img src="https://shields.io/badge/FastAPI-005571?logo=fastapi&style=for-the-badge">
 <details close>
     <summary>☎️ <b>Get in touch?<b></summary>
     <br>
