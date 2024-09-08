@@ -40,7 +40,7 @@
         <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/sql-%23339933.svg?&style=for-the-badge&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/MongoDB-13aa52?&style=for-the-badge&logo=mongodb&logoColor=white">
-    <!--     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> -->
+        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
         <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
         <img src="https://shields.io/badge/FastAPI-005571?logo=fastapi&style=for-the-badge">
@@ -50,12 +50,13 @@
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
         <img src="https://img.shields.io/badge/plotly-%037FFC.svg?style=for-the-badge&logo=plotly&logoColor=white">
         <img src="https://img.shields.io/badge/neo4j-4581C3?&style=for-the-badge&logo=neo4j&logoColor=white">
-        <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <!--     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> -->
+        <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+        <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">
+        <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
         <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
         <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge">
-        <img src="https://img.shields.io/badge/Java-F89820?logo=Java&logoColor=white&style=for-the-badge">
+        <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge">
         <img src="https://img.shields.io/badge/Linux-FFCC33?logo=Linux&logoColor=white&style=for-the-badge">
         <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge">
 <details close>
