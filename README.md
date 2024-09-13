@@ -42,6 +42,7 @@
         <img src="https://img.shields.io/badge/MongoDB-13aa52?&style=for-the-badge&logo=mongodb&logoColor=white">
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff&style=for-the-badge">
         <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
         <img src="https://shields.io/badge/FastAPI-005571?logo=fastapi&style=for-the-badge">
         <img src="https://shields.io/badge/TensorFlow-FF3F06?logo=tensorflow&style=for-the-badge&logoColor=white">
