@@ -60,6 +60,7 @@
         <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge">
         <img src="https://img.shields.io/badge/Linux-FFCC33?logo=Linux&logoColor=white&style=for-the-badge">
         <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge">
+        <img src="https://shields.io/badge/vue-35495E?logo=vuedotjs&style=for-the-badge">
 <details close>
     <summary>☎️ <b>Get in touch?<b></summary>
     <br>
